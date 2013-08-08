@@ -16,7 +16,7 @@ Installation
 
 #. Add the ``ganalytics`` directory to your Python path. Using ``pip``::
 
-       pip install git+https://bitbucket.org/raymondwanyoike/django-ganalytics.git#egg=django-ganalytics
+       pip install "git+https://bitbucket.org/raymondwanyoike/django-ganalytics.git#egg=django-ganalytics"
 
 #. Add ``ganalytics`` to your ``INSTALLED_APPS`` setting::
 
